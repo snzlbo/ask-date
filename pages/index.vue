@@ -13,7 +13,7 @@
       <img
         src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRuczY0ZGZ1dDZuYmtxcG54a3IwZjFyb2RjN2ptOGhkczJndXpqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mpu7L6b0oRy0KOuyd7/giphy.gif"
         alt="Cute animated illustration"
-        class="aspect-auto"
+        class="max-w-[320px] md:max-w-[600px]"
       />
     </div>
     <div class="buttons">
